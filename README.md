@@ -1,0 +1,2 @@
+# Stellaris_Mod_packing
+一个通过打包群星mod文件从而加快群星进入游戏前的载入速度
